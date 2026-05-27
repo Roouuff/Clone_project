@@ -25,7 +25,9 @@ A modern, beautifully crafted Laravel starter kit with **Bootstrap 5**, **Livewi
 
 ## 🖼️ Screenshots
 
-> _(Add your screenshots here)_
+<div align="center">
+
+<img src="assets/screenshots/halaman.png" width="800"/>
 
 ---
 
